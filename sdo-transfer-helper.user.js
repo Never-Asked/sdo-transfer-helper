@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         SDO - Помощник перезачета дисциплин
 // @namespace    https://github.com/Never-Asked/sdo-transfer-helper
-// @version      1.0.1
+// @version      1.0.2
 // @description  Сохраняет оценки, старый курс и сравнивает с актуальным курсом для перезачёта
 // @author       NeverAsked
 // @homepageURL  https://github.com/Never-Asked/sdo-transfer-helper
@@ -10,6 +10,7 @@
 // @downloadURL  https://raw.githubusercontent.com/Never-Asked/sdo-transfer-helper/main/sdo-transfer-helper.user.js
 // @match        https://sdo.nadpo.ru/*
 // @match        https://sdo.ncrdo.ru/*
+// @match        https://sdo.appkk.ru/*
 // @grant        GM_setClipboard
 // ==/UserScript==
 
